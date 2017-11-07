@@ -1,5 +1,8 @@
 .idea
 lib_managed
 *.iml
+*.swp
 */target
 target
+core/checkpoint-dir
+core/demo-data-dir
